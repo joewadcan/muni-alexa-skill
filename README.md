@@ -2,7 +2,7 @@
 
 Add incoming MUNI predictions to Amazon Echo's Alexa using this small skill. It's not published in the skills directory but you can deploy it with your own settings using AWS Lambda function and let it run for free.
 
-Currently the skill only supports one stop and you need to hardcode the SFMTA stop number in `index.js`. Look up the nearest stop around your place using [511](http://transit.511.org/schedules/realtimedepartures.aspx).
+Currently the skill only supports one stop and you need to hardcode the SFMTA stop number in `index.js`. Look up the nearest stop around your place using [511](http://transit.511.org/schedules/realtimedepartures.aspx). Tested
 
 ## Adding a new developer skill
 
